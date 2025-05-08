@@ -4,4 +4,5 @@ I analye facial, vocal and textual emotions, using mostly deep learning based ap
 
 @@----------------------@@
        | EAD |
-        ---
+       -------
+       Inspired by mael fabien
